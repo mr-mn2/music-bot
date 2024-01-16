@@ -1,0 +1,1 @@
+insert into musics(name,file_id,duration,created_at,sender_id) value (:name,:file_id,:duration,:created_at,:sender_id)
